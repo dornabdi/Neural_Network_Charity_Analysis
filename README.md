@@ -16,7 +16,7 @@ I started out by using two hidden layers. The first layer had 80 and the second 
 
 - Were you able to achieve the target model performance? </br>
 No. My model achieved 72.6% Acccuracy and the target model performance was 75%. 
-</br> ![accuracy1](../images/accuracy1.png) 
+</br> ![accuracy1](images/accuracy1.png) 
 
 - What steps did you take to try and increase model performance?
    - I added another hidden layer with 10 additional neurons. Accuracy was 72.2%.
