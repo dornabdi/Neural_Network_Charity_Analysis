@@ -19,7 +19,7 @@ No. My model achieved 72.6% Acccuracy and the target model performance was 75%.
 </br> ![accuracy1](..images/accuracy1.png) 
 
 - What steps did you take to try and increase model performance?
-- 1. I added another hidden layer with 15 additional neurons. Accuracy was 72.2%.
+1. I added another hidden layer with 15 additional neurons. Accuracy was 72.2%.
 - 2. I added neurons to the second layer so that each layer has 80 neurons. Accuracy was 72.3%. 
 - 3. I changed the activation function from ReLu to Tanh. Accuracy was 72.5%. 
 
