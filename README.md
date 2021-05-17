@@ -29,5 +29,5 @@ No. My model achieved 72.6% Acccuracy and the target model performance was 75%.
    </br> ![accuracy4](images/accuracy4.png) 
 
 ## Summary/Recommendation: 
-Despite my attempts to optimize the model, the best Accuracy level I got was 72.6% and a loss score of .56, which did not meet the designated threshold. The Accuracy means that "IS_SUCCESSFUL" was predicted correctly about 72.6% of the time. In other words, the model could predict organization sucess 72.6% of the time. Addiionally, I recommend using the Sigmoid activation function to take a better snapshot of the bigger picture and avoid overfitting by keeping data within a specific bounds. 
+Despite my attempts to optimize the model, the best accuracy level I got was 72.6% and a loss score of .56, which did not meet the designated threshold. This means that "IS_SUCCESSFUL" was predicted correctly about 72.6% of the time. In other words, the model could predict Alphabet Soup's organization success 72.6% of the time. Addiionally, I recommend using the Sigmoid activation function to take a better snapshot of the bigger picture and avoid overfitting by using an S Curve to fit the data. 
 
