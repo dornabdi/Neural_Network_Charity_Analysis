@@ -6,7 +6,7 @@ In this project, I used machine learning to build a binary classifier that is ca
 ## Results
 
 ### Data Preprocessing
-- The Target Variable is IS_SUCCESSFUL
+- The Target Variable is IS_SUCCESSFUL.
 - The Feature Variables are APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS,  and ASK_AMT. 
 - 'EIN' and 'NAME' were not relevant to our binary analysis as a target or a feature, so they were removed from the input data. 
 
