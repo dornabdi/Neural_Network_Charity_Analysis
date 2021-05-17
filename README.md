@@ -20,13 +20,13 @@ No. My model achieved 72.6% Acccuracy and the target model performance was 75%.
 
 - What steps did you take to try and increase model performance?
    - I added another hidden layer with 10 additional neurons. Accuracy was 72.2%.
-    </br> ![accuracy1](..images/accuracy1.png) 
+    </br> ![accuracy2](images/accuracy2.png) 
 
    -  I added neurons to the second layer so that each layer has 80 neurons. Accuracy was 72.3%. 
-   </br> ![accuracy1](..images/accuracy1.png) 
+   </br> ![accuracy3](images/accuracy3.png) 
 
    -  I changed the activation function from ReLu to Tanh. Accuracy was 72.5%. 
-   </br> ![accuracy1](..images/accuracy1.png) 
+   </br> ![accuracy4](images/accuracy4.png) 
 
 ## Summary/Recommendation: 
 Despite my attempts to optimize the model, the best Accuracy level I got was 72.6% and a loss score of .56, which did not meet the designated threshold. The Accuracy means that "IS_SUCCESSFUL" was predicted correctly about 72.6% of the time. In other words, the model could predict organization sucess 72.6% of the time. Addiionally, I recommend using the Sigmoid activation function to take a better snapshot of the bigger picture and avoid overfitting by keeping data within a specific bounds. 
